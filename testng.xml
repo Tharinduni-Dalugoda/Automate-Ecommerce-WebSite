@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/ASUS/IdeaProjects/flipkartEcommerceSite">
+        <classes>
+            <class name="webshop.Login"></class>
+            <class name="webshop.Search"></class>
+            <class name="webshop.Register"></class>
+            <class name="webshop.AddToCart"></class>
+            <class name="webshop.checkout"></class>
+
+        </classes>
+    </test>
+</suite>
